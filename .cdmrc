@@ -1,1 +1,2 @@
 tabs: ['contracts/gasPrice.sol']
+terminals: ['yarn install']
