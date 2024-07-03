@@ -1,2 +1,3 @@
-tabs: ['contracts/gasPrice.sol']
-terminals: ['yarn install']
+tabs: ["contracts/gasPrice.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
